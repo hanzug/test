@@ -1,0 +1,81 @@
+{"level":"INFO","time":"2023-12-27T10:36:32.465+0800","caller":"main/main.go:23","msg":"","loop":0,"answer":1}
+{"level":"INFO","time":"2023-12-27T10:36:32.467+0800","caller":"main/main.go:23","msg":"","loop":1,"answer":1}
+{"level":"INFO","time":"2023-12-27T10:36:32.467+0800","caller":"main/main.go:23","msg":"","loop":1,"answer":2}
+{"level":"INFO","time":"2023-12-27T10:36:32.467+0800","caller":"main/main.go:45","msg":"ok","answer":3}
+{"level":"INFO","time":"2023-12-27T10:37:22.515+0800","caller":"main/main.go:23","msg":"","loop":0,"answer":1}
+{"level":"INFO","time":"2023-12-27T10:37:22.519+0800","caller":"main/main.go:23","msg":"","loop":1,"answer":1}
+{"level":"INFO","time":"2023-12-27T10:37:22.519+0800","caller":"main/main.go:23","msg":"","loop":1,"answer":2}
+{"level":"INFO","time":"2023-12-27T10:37:22.520+0800","caller":"main/main.go:23","msg":"","loop":2,"answer":3}
+{"level":"INFO","time":"2023-12-27T10:37:22.520+0800","caller":"main/main.go:23","msg":"","loop":3,"answer":5}
+{"level":"INFO","time":"2023-12-27T10:37:22.521+0800","caller":"main/main.go:23","msg":"","loop":5,"answer":8}
+{"level":"INFO","time":"2023-12-27T10:37:22.521+0800","caller":"main/main.go:23","msg":"","loop":8,"answer":13}
+{"level":"INFO","time":"2023-12-27T10:37:22.521+0800","caller":"main/main.go:23","msg":"","loop":13,"answer":21}
+{"level":"INFO","time":"2023-12-27T10:37:22.522+0800","caller":"main/main.go:23","msg":"","loop":21,"answer":34}
+{"level":"INFO","time":"2023-12-27T10:37:22.522+0800","caller":"main/main.go:23","msg":"","loop":34,"answer":55}
+{"level":"INFO","time":"2023-12-27T10:37:22.522+0800","caller":"main/main.go:45","msg":"ok","answer":89}
+{"level":"INFO","time":"2023-12-27T10:37:46.490+0800","caller":"main/main.go:26","msg":"","loop":10,"answer":1}
+{"level":"INFO","time":"2023-12-27T10:37:46.492+0800","caller":"main/main.go:26","msg":"","loop":9,"answer":1}
+{"level":"INFO","time":"2023-12-27T10:37:46.492+0800","caller":"main/main.go:26","msg":"","loop":8,"answer":2}
+{"level":"INFO","time":"2023-12-27T10:37:46.492+0800","caller":"main/main.go:26","msg":"","loop":7,"answer":3}
+{"level":"INFO","time":"2023-12-27T10:37:46.492+0800","caller":"main/main.go:26","msg":"","loop":6,"answer":5}
+{"level":"INFO","time":"2023-12-27T10:37:46.493+0800","caller":"main/main.go:26","msg":"","loop":5,"answer":8}
+{"level":"INFO","time":"2023-12-27T10:37:46.493+0800","caller":"main/main.go:26","msg":"","loop":4,"answer":13}
+{"level":"INFO","time":"2023-12-27T10:37:46.493+0800","caller":"main/main.go:26","msg":"","loop":3,"answer":21}
+{"level":"INFO","time":"2023-12-27T10:37:46.493+0800","caller":"main/main.go:26","msg":"","loop":2,"answer":34}
+{"level":"INFO","time":"2023-12-27T10:37:46.494+0800","caller":"main/main.go:26","msg":"","loop":1,"answer":55}
+{"level":"INFO","time":"2023-12-27T10:37:46.494+0800","caller":"main/main.go:45","msg":"ok","answer":89}
+{"level":"INFO","time":"2023-12-27T10:38:23.259+0800","caller":"main/main.go:26","msg":"","loop R2 = ":10,"answer acc = ":1}
+{"level":"INFO","time":"2023-12-27T10:38:23.261+0800","caller":"main/main.go:26","msg":"","loop R2 = ":9,"answer acc = ":1}
+{"level":"INFO","time":"2023-12-27T10:38:23.261+0800","caller":"main/main.go:26","msg":"","loop R2 = ":8,"answer acc = ":2}
+{"level":"INFO","time":"2023-12-27T10:38:23.261+0800","caller":"main/main.go:26","msg":"","loop R2 = ":7,"answer acc = ":3}
+{"level":"INFO","time":"2023-12-27T10:38:23.262+0800","caller":"main/main.go:26","msg":"","loop R2 = ":6,"answer acc = ":5}
+{"level":"INFO","time":"2023-12-27T10:38:23.262+0800","caller":"main/main.go:26","msg":"","loop R2 = ":5,"answer acc = ":8}
+{"level":"INFO","time":"2023-12-27T10:38:23.262+0800","caller":"main/main.go:26","msg":"","loop R2 = ":4,"answer acc = ":13}
+{"level":"INFO","time":"2023-12-27T10:38:23.263+0800","caller":"main/main.go:26","msg":"","loop R2 = ":3,"answer acc = ":21}
+{"level":"INFO","time":"2023-12-27T10:38:23.263+0800","caller":"main/main.go:26","msg":"","loop R2 = ":2,"answer acc = ":34}
+{"level":"INFO","time":"2023-12-27T10:38:23.263+0800","caller":"main/main.go:26","msg":"","loop R2 = ":1,"answer acc = ":55}
+{"level":"INFO","time":"2023-12-27T10:38:23.264+0800","caller":"main/main.go:45","msg":"ok","answer":89}
+{"level":"INFO","time":"2023-12-27T10:38:46.221+0800","caller":"main/main.go:26","msg":"","loop R2":10,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T10:38:46.223+0800","caller":"main/main.go:26","msg":"","loop R2":9,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T10:38:46.223+0800","caller":"main/main.go:26","msg":"","loop R2":8,"answer acc":2}
+{"level":"INFO","time":"2023-12-27T10:38:46.223+0800","caller":"main/main.go:26","msg":"","loop R2":7,"answer acc":3}
+{"level":"INFO","time":"2023-12-27T10:38:46.224+0800","caller":"main/main.go:26","msg":"","loop R2":6,"answer acc":5}
+{"level":"INFO","time":"2023-12-27T10:38:46.224+0800","caller":"main/main.go:26","msg":"","loop R2":5,"answer acc":8}
+{"level":"INFO","time":"2023-12-27T10:38:46.224+0800","caller":"main/main.go:26","msg":"","loop R2":4,"answer acc":13}
+{"level":"INFO","time":"2023-12-27T10:38:46.224+0800","caller":"main/main.go:26","msg":"","loop R2":3,"answer acc":21}
+{"level":"INFO","time":"2023-12-27T10:38:46.225+0800","caller":"main/main.go:26","msg":"","loop R2":2,"answer acc":34}
+{"level":"INFO","time":"2023-12-27T10:38:46.225+0800","caller":"main/main.go:26","msg":"","loop R2":1,"answer acc":55}
+{"level":"INFO","time":"2023-12-27T10:38:46.225+0800","caller":"main/main.go:45","msg":"ok","answer":89}
+{"level":"INFO","time":"2023-12-27T11:11:02.757+0800","caller":"main/main.go:26","msg":"","R0":10,"R1":10,"R2":10,"R3":10,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T11:11:02.759+0800","caller":"main/main.go:26","msg":"","R0":9,"R1":9,"R2":9,"R3":9,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T11:11:02.759+0800","caller":"main/main.go:26","msg":"","R0":8,"R1":8,"R2":8,"R3":8,"answer acc":2}
+{"level":"INFO","time":"2023-12-27T11:11:02.760+0800","caller":"main/main.go:26","msg":"","R0":7,"R1":7,"R2":7,"R3":7,"answer acc":3}
+{"level":"INFO","time":"2023-12-27T11:11:02.760+0800","caller":"main/main.go:26","msg":"","R0":6,"R1":6,"R2":6,"R3":6,"answer acc":5}
+{"level":"INFO","time":"2023-12-27T11:11:02.760+0800","caller":"main/main.go:26","msg":"","R0":5,"R1":5,"R2":5,"R3":5,"answer acc":8}
+{"level":"INFO","time":"2023-12-27T11:11:02.761+0800","caller":"main/main.go:26","msg":"","R0":4,"R1":4,"R2":4,"R3":4,"answer acc":13}
+{"level":"INFO","time":"2023-12-27T11:11:02.761+0800","caller":"main/main.go:26","msg":"","R0":3,"R1":3,"R2":3,"R3":3,"answer acc":21}
+{"level":"INFO","time":"2023-12-27T11:11:02.761+0800","caller":"main/main.go:26","msg":"","R0":2,"R1":2,"R2":2,"R3":2,"answer acc":34}
+{"level":"INFO","time":"2023-12-27T11:11:02.762+0800","caller":"main/main.go:26","msg":"","R0":1,"R1":1,"R2":1,"R3":1,"answer acc":55}
+{"level":"INFO","time":"2023-12-27T11:11:02.762+0800","caller":"main/main.go:45","msg":"ok","answer":89}
+{"level":"INFO","time":"2023-12-27T12:05:08.153+0800","caller":"main/main.go:25","msg":"","R0":10,"R1":10,"R2":10,"R3":10,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T12:05:08.154+0800","caller":"main/main.go:25","msg":"","R0":9,"R1":9,"R2":9,"R3":9,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T12:05:08.154+0800","caller":"main/main.go:25","msg":"","R0":8,"R1":8,"R2":8,"R3":8,"answer acc":2}
+{"level":"INFO","time":"2023-12-27T12:05:08.155+0800","caller":"main/main.go:25","msg":"","R0":7,"R1":7,"R2":7,"R3":7,"answer acc":3}
+{"level":"INFO","time":"2023-12-27T12:05:08.155+0800","caller":"main/main.go:25","msg":"","R0":6,"R1":6,"R2":6,"R3":6,"answer acc":5}
+{"level":"INFO","time":"2023-12-27T12:05:08.155+0800","caller":"main/main.go:25","msg":"","R0":5,"R1":5,"R2":5,"R3":5,"answer acc":8}
+{"level":"INFO","time":"2023-12-27T12:05:08.155+0800","caller":"main/main.go:25","msg":"","R0":4,"R1":4,"R2":4,"R3":4,"answer acc":13}
+{"level":"INFO","time":"2023-12-27T12:05:08.156+0800","caller":"main/main.go:25","msg":"","R0":3,"R1":3,"R2":3,"R3":3,"answer acc":21}
+{"level":"INFO","time":"2023-12-27T12:05:08.156+0800","caller":"main/main.go:25","msg":"","R0":2,"R1":2,"R2":2,"R3":2,"answer acc":34}
+{"level":"INFO","time":"2023-12-27T12:05:08.156+0800","caller":"main/main.go:25","msg":"","R0":1,"R1":1,"R2":1,"R3":1,"answer acc":55}
+{"level":"INFO","time":"2023-12-27T12:05:08.156+0800","caller":"main/main.go:44","msg":"ok","answer":89}
+{"level":"INFO","time":"2023-12-27T12:05:29.614+0800","caller":"main/main.go:25","msg":"","R0":0,"R1":0,"R2":10,"R3":1,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T12:05:29.615+0800","caller":"main/main.go:25","msg":"","R0":1,"R1":1,"R2":9,"R3":1,"answer acc":1}
+{"level":"INFO","time":"2023-12-27T12:05:29.615+0800","caller":"main/main.go:25","msg":"","R0":1,"R1":1,"R2":8,"R3":2,"answer acc":2}
+{"level":"INFO","time":"2023-12-27T12:05:29.616+0800","caller":"main/main.go:25","msg":"","R0":2,"R1":2,"R2":7,"R3":3,"answer acc":3}
+{"level":"INFO","time":"2023-12-27T12:05:29.616+0800","caller":"main/main.go:25","msg":"","R0":3,"R1":3,"R2":6,"R3":5,"answer acc":5}
+{"level":"INFO","time":"2023-12-27T12:05:29.616+0800","caller":"main/main.go:25","msg":"","R0":5,"R1":5,"R2":5,"R3":8,"answer acc":8}
+{"level":"INFO","time":"2023-12-27T12:05:29.616+0800","caller":"main/main.go:25","msg":"","R0":8,"R1":8,"R2":4,"R3":13,"answer acc":13}
+{"level":"INFO","time":"2023-12-27T12:05:29.617+0800","caller":"main/main.go:25","msg":"","R0":13,"R1":13,"R2":3,"R3":21,"answer acc":21}
+{"level":"INFO","time":"2023-12-27T12:05:29.617+0800","caller":"main/main.go:25","msg":"","R0":21,"R1":21,"R2":2,"R3":34,"answer acc":34}
+{"level":"INFO","time":"2023-12-27T12:05:29.617+0800","caller":"main/main.go:25","msg":"","R0":34,"R1":34,"R2":1,"R3":55,"answer acc":55}
+{"level":"INFO","time":"2023-12-27T12:05:29.617+0800","caller":"main/main.go:44","msg":"ok","answer":89}
