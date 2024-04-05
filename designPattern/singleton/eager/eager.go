@@ -1,4 +1,4 @@
-package singleton
+package eager
 
 type singleton struct{}
 

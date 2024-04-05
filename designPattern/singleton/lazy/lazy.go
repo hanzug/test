@@ -1,18 +1,22 @@
-package singleton
+package lazy
 
 import (
 	"sync"
 )
 
+type Singleton struct{}
+
+var instance *Singleton
+
 var mu sync.Mutex
 
 // GetInstance 双重检查加锁的懒汉模式
-func GetInstanceLazy() *singleton {
+func GetInstanceLazy() *Singleton {
 	if instance == nil {
 		mu.Lock()
 		defer mu.Unlock()
 		if instance == nil {
-			instance = &singleton{}
+			instance = &Singleton{}
 		}
 	}
 	return instance
