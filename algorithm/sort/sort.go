@@ -50,41 +50,31 @@ func InsertionSort(arr []int) {
 }
 
 // quickSort 快速排序，不稳定，平均O(n*logn)，最坏O(n^2)
-func quickSort(arr []int) {
-	// 如果切片长度小于等于1，无需排序
-	if len(arr) <= 1 {
+func quickSort(nums []int, l, r int) {
+	if l >= r {
 		return
 	}
-	// 选择最后一个元素作为基准值
-	pivot := arr[len(arr)-1]
-	left := 0             // 左指针
-	right := len(arr) - 2 // 右指针
+	pivot := nums[r]
+	i := l
+	j := r - 1
 
-	// 分区操作
-	for left <= right {
-		// 从左往右找到第一个大于等于基准值的元素
-		for arr[left] < pivot {
-			left++
+	for i <= j {
+		for nums[i] < pivot {
+			i++
 		}
-		// 从右往左找到第一个小于等于基准值的元素
-		for right >= 0 && arr[right] > pivot {
-			right--
+		for j >= i && nums[j] > pivot {
+			j--
 		}
-		// 如果左指针小于等于右指针，交换两个元素
-		if left <= right {
-			arr[left], arr[right] = arr[right], arr[left]
-			left++
-			right--
+		if i <= j {
+			nums[i], nums[j] = nums[j], nums[i]
+			i++
+			j--
 		}
 	}
+	nums[i], nums[r] = nums[r], nums[i]
 
-	// 将基准值移到正确的位置
-	arr[left], arr[len(arr)-1] = arr[len(arr)-1], arr[left]
-
-	// 对基准值左边的子数组进行递归排序
-	quickSort(arr[:left])
-	// 对基准值右边的子数组进行递归排序
-	quickSort(arr[left+1:])
+	quickSort(nums, l, i-1)
+	quickSort(nums, i+1, r)
 }
 
 // mergeSort 归并排序，稳定，O(n*logn)
@@ -223,6 +213,6 @@ func countingSort(arr []int, exp int) {
 func main() {
 	arr := []int{64, 34, 25, 12, 22, 11, 90}
 	fmt.Println("Original array:", arr)
-	quickSort(arr)
+	//quickSort(arr)
 	fmt.Println("Sorted array:", arr)
 }
